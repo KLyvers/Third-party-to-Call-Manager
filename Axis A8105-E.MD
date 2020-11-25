@@ -2,7 +2,7 @@
 
 Verified working with CUCM 12.5 with video calling to Jabber 12.9 and 9971 series endpoints
 
-The biggest issue was that the device did not assume to send the call to the registrar server. The `To SIP address:` needed to include the CUCM server DNS/IP. Shoutout to Axis support for the three hour call to help figure this out.
+The biggest issue was that the device did not assume to send the call to the registrar server. The `To SIP address:` needed to include the CUCM server DNS/IP. **Shoutout to Axis support for the three hour call to help figure this out.**
 
 ## CUCM configuration
 

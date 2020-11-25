@@ -52,7 +52,7 @@ Create the device
  `Device Security Profile*` set to the security profile made earlier. Example: *Axis SIP Device Security Profile* from dropdown  
  `SIP Profile*` select *Standard SIP Profile* from dropdown  
  `Digest User` select the End User created earlier from the dropdown. Example: *a8004*  
-![Protocol Specific snip](images\CUCM-ProtocolInfo-Axis.jpg)
+![Protocol Specific snip](/images/CUCM-ProtocolInfo-Axis.jpg)
 
 
 5. Click `Save` then `Apply Configuration` the Apply Configuration popup will note that this will drop calls in progress.

@@ -57,7 +57,12 @@ Create the device
 
 5. Click `Save` then `Apply Configuration` the Apply Configuration popup will note that this will drop calls in progress.
 
-Configure line/Directory Number on the device
+Configure line/Directory Number on the device like any other device on your cluster.
 
-1. Click on `Line [1] - Add a new DN  
-In our example we will configure with extension 568, however your number plan may be different.
+The number/extension the device calls is configured as part of the button trigger setttings. See the User Guide for help configuring "outbound" calling from the doorstation.
+
+I did test video calling to an older Cisco video endpoint, but it failed due to the resolution the Axis device negoitates. 
+
+Remote door unlatch works as expected as well.
+
+If you found this guide useful, drop me a message. Would love to know it actually helped someone. Thanks!
